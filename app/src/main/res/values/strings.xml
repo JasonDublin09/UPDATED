@@ -1,0 +1,65 @@
+<resources>
+    <!--All the string resources come here including Questions and title -->
+    <string name="app_name">Kiddie Quiz</string>
+    <string name="correct"><b>YOUR SCORE:</b> \n
+						<b>%1$d</b> /10</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="correct_answer">Great! You\'re correct!</string>
+    <string name="wrong_answer">Nice Try! But you\'re wrong!</string>
+
+    <string name="a">What animal is shown above?</string>
+
+    <string name="q1A">Ant</string>
+    <string name="q1B">Dog</string>
+    <string name="q1C">Giraffe</string>
+    <string name="q1D">Cat</string>
+
+    <string name="q2A">Spider</string>
+    <string name="q2B">Penguin</string>
+    <string name="q2C">Dog</string>
+    <string name="q2D">Lizard</string>
+
+    <string name="q3A">Tiger</string>
+    <string name="q3B">Lion</string>
+    <string name="q3C">Puma</string>
+    <string name="q3D">Dog</string>
+
+    <string name="q4A">Crab</string>
+    <string name="q4B">Ant</string>
+    <string name="q4C">Spider</string>
+    <string name="q4D">Octopus</string>
+
+    <string name="q5A">Mantis</string>
+    <string name="q5B">Spider</string>
+    <string name="q5C">Ant</string>
+    <string name="q5D">Octopus</string>
+
+    <string name="q6A">Bird</string>
+    <string name="q6B">Duck</string>
+    <string name="q6C">Fly</string>
+    <string name="q6D">Chicken</string>
+
+    <string name="q7A">Boar</string>
+    <string name="q7B">Elephant</string>
+    <string name="q7C">Pig</string>
+    <string name="q7D">Warthog</string>
+
+    <string name="q8A">Shark</string>
+    <string name="q8B">Stingray</string>
+    <string name="q8C">Dolphin</string>
+    <string name="q8D">Eel</string>
+
+    <string name="q9A">Porcupine</string>
+    <string name="q9B">Mouse</string>
+    <string name="q9C">Rabbit</string>
+    <string name="q9D">Hedgehog</string>
+
+    <string name="q10A">Tiger</string>
+    <string name="q10B">Monkey</string>
+    <string name="q10C">Dog</string>
+    <string name="q10D">Bear</string>
+
+    <string name="next_text">next</string>
+
+</resources>
